@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    width: 350px;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+
+
+.box{
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    background-color: aqua;
+    color: brown;
+    
+}
+
+/* .box{
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+} */
+
+h1{
+    margin-left: 10px;
+}
